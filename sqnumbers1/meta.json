@@ -1,0 +1,191 @@
+{
+    "TestDescription": "Raven's Progressive Matrices (often referred to simply as Raven's Matrices) or RPM is a non-verbal test typically used to measure general human intelligence and abstract reasoning and is regarded as a non-verbal estimate of fluid intelligence.",
+    "TestBackground": {
+      "Type": "color",
+      "Value": "#FFFFFF"
+    },
+    "TestTime": 360,
+    "Price":{
+      "Type": "Advertise",
+      "Value": "1"
+    },
+    "SavePossibility": true,
+    "FinalImage": "T1F.jpg",
+    "CheckPossibility": true,
+    "Queries": [
+      {
+        "Question": 
+          {
+            "Type": "Text",
+            "Value": "7, 14, 21, 28, 35 .....?",
+            "QuestionDescription": "What is the next number in these sequences?",
+            "AnswerDescription": "Choose one of the following numbers:",
+            "CheckNote":"Solution: each number increases by 7"
+          },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "42"
+          },
+          {
+            "Type": "Text",
+            "Value": "41"
+          },
+          {
+            "Type": "Text",
+            "Value": "40"
+          },
+          {
+            "Type": "Text",
+            "Value": "39"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": 
+          {
+            "Type": "Text",
+            "Value": "11, 11, 22, 66, 264 .....?",
+            "QuestionDescription": "What is the next number in these sequences?",
+            "AnswerDescription": "Choose one of the following numbers:",
+            "CheckNote":"Solution: Each number increases by multiply the previous number.  The multiplication rate increases by 1 each time\n11 * 1 = 11\n11 * 2 = 22\n22 * 3 = 66\n66 * 4 = 264\n264 * 5 = 1320"
+          },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "1320"
+          },
+          {
+            "Type": "Text",
+            "Value": "1400"
+          },
+          {
+            "Type": "Text",
+            "Value": "1540"
+          },
+          {
+            "Type": "Text",
+            "Value": "1528"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": 
+          {
+            "Type": "Text",
+            "Value": "18, 108, 648, 3888 ....?",
+            "QuestionDescription": "What is the next number in these sequences?",
+            "AnswerDescription": "Choose one of the following numbers:",
+            "CheckNote":"Solution: Each number increases using a multiple of 6"
+          },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "23328"
+          },
+          {
+            "Type": "Text",
+            "Value": "24444"
+          },
+          {
+            "Type": "Text",
+            "Value": "25438"
+          },
+          {
+            "Type": "Text",
+            "Value": "68202"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": 
+          {
+            "Type": "Text",
+            "Value": "10, 15, 5, 25, 20 ......?",
+            "QuestionDescription": "What is the next number in these sequences?",
+            "AnswerDescription": "Choose one of the following numbers:",
+            "CheckNote":"Solution: This is a mixture of addition and subtraction using the previous numbers.\n10 + 5 = 15\n15 - 10 = 5\n5 + 15 = 25\n25 - 5 = 20\n20 + 25 = 45"          
+          },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "-40"
+          },
+          {
+            "Type": "Text",
+            "Value": "-25"
+          },
+          {
+            "Type": "Text",
+            "Value": "45"
+          },
+          {
+            "Type": "Text",
+            "Value": "70"
+          }
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Question": 
+          {
+            "Type": "Text",
+            "Value": "6, 12, 4, 8, 2.66 .....?",
+            "QuestionDescription": "What is the next number in these sequences?",
+            "AnswerDescription": "Choose one of the following numbers:",
+            "CheckNote":"Solution: this is a mix of multiplication and division.\n6 * 2 = 12\n12 / 3 = 4\n4 * 2 = 8\n8 / 3 = 2.66\n2.66 * 2 = 5.33"          
+          },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "-2.33"
+          },
+          {
+            "Type": "Text",
+            "Value": "4.66"
+          },
+          {
+            "Type": "Text",
+            "Value": "5.33"
+          },
+          {
+            "Type": "Text",
+            "Value": "5.66"
+          }
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Question": 
+          {
+            "Type": "Text",
+            "Value": "8, 20, 50, 125, .....?",
+            "QuestionDescription": "What is the next number in these sequences?",
+            "AnswerDescription": "Choose one of the following numbers:",
+            "CheckNote":"Solution: Each number increases at a multiple of 2.5"
+          },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "255"
+          },
+          {
+            "Type": "Text",
+            "Value": "325.5"
+          },
+          {
+            "Type": "Text",
+            "Value": "312.5"
+          },
+          {
+            "Type": "Text",
+            "Value": "330"
+          }
+        ],
+        "CorrectAnswer": 2
+      }
+    ]
+  }

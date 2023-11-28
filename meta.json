@@ -1,0 +1,71 @@
+{
+    "Tests":
+    [
+        {
+            "TestLabel":"Raven",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"raven",
+                    "IconPath":"raven.png",
+                    "LabelTextColor":"#fbc8d6",
+                    "LabelBackgroundColor":"#430c19"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Short Raven A",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"shortraven1",
+                    "IconPath":"shortraven1.png",
+                    "LabelTextColor":"#accefa",
+                    "LabelBackgroundColor":"#252d45"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Short Raven B",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"shortraven2",
+                    "IconPath":"shortraven2.png",
+                    "LabelTextColor":"#fbfe96",
+                    "LabelBackgroundColor":"#66300f"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Number Sequence A",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"sqnumbers1",
+                    "IconPath":"sqnumbers1.png",
+                    "LabelTextColor":"#FFE6D4",
+                    "LabelBackgroundColor":"#171F67"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Mars",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"mars",
+                    "IconPath":"mars.png",
+                    "LabelTextColor":"#E2FAED",
+                    "LabelBackgroundColor":"#112820"
+                }
+            ]
+        }
+    ],
+    "IconPath":"icons/"
+}
