@@ -57,7 +57,7 @@
             "TestLabel":"Mars",
             "Versions": [
                 {
-                    "Version":"1.0",
+                    "Version":"1.2",
                     "MinAppVersion":"1.0",
                     "Path":"mars",
                     "IconPath":"mars.png",
